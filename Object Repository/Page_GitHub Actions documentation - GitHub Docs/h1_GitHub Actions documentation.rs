@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_GitHub Actions documentation</name>
+   <tag></tag>
+   <elementGuidId>c99b91f6-027c-4715-9d87-3bfbb0ce9f6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='title-h1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#title-h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>41159af8-0f7b-46ec-b568-2804dc9b72e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title-h1</value>
+      <webElementGuid>55140ccc-4c96-4830-a2a6-f82baac60e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GitHub Actions documentation </value>
+      <webElementGuid>4bba8014-4b06-4628-8e7b-1738c553787b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title-h1&quot;)</value>
+      <webElementGuid>07aafff2-74a9-40f2-86d0-4b0cbaa05395</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='title-h1']</value>
+      <webElementGuid>49397c5f-8973-4223-8701-128e8c95f2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/div/header/div/h1</value>
+      <webElementGuid>546a216e-e0e6-4d1a-9320-0830af4dc47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guides for GitHub Actions'])[1]/following::h1[1]</value>
+      <webElementGuid>1e53ea75-76ec-4cf0-ae10-9f5dee541135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLI setup action'])[1]/following::h1[1]</value>
+      <webElementGuid>bf4a57e4-0429-4fd8-9861-c079afa0a3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::h1[1]</value>
+      <webElementGuid>92e1ae78-28a8-47fe-b237-3dd4d6ae5ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quickstart'])[3]/preceding::h1[1]</value>
+      <webElementGuid>5a649c66-8043-4b88-922a-37496e0ed63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GitHub Actions documentation']/parent::*</value>
+      <webElementGuid>6c3d86d8-d7fd-4a07-bd6f-578874da0b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>037d1d5b-3af2-4563-abde-57f2cc991088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'title-h1' and (text() = 'GitHub Actions documentation ' or . = 'GitHub Actions documentation ')]</value>
+      <webElementGuid>bdf981b8-de73-4d00-b5b7-e60c8ee22aa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

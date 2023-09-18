@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Folk</name>
+   <tag></tag>
+   <elementGuidId>babb49e0-3f0e-40c1-b698-44247ed66eff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/div/div/div/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bffc38de-36e3-4029-b513-cfdfec442e27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Folk</value>
+      <webElementGuid>61600600-550c-4410-b871-7b17d4e11f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;style-module--app-shell--1Luo6&quot;]/div[@class=&quot;style-module--parent--2xIYu&quot;]/div[@class=&quot;style-module--hero--XGIUy&quot;]/div[@class=&quot;sd-container&quot;]/div[@class=&quot;sd-container-inner style-module--hero-inner--M1yz3 style-module--hero--1wZ_0&quot;]/ul[@class=&quot;unstyled-list taglist-module--tag-list--EJYzB style-module--tag-list--2bEsf&quot;]/li[1]/a[@class=&quot;t-ui-4 style-module--tag--q2Ca3 style-module--alternate--2DC9P&quot;]/span[1]</value>
+      <webElementGuid>2eb913bd-cfe5-43fe-9596-8c0bb87cf0ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/div/div/div/div/ul/li/a/span</value>
+      <webElementGuid>33c0f9ab-ea4d-441e-a39e-d4e588a172aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listen'])[4]/following::span[2]</value>
+      <webElementGuid>e681faf1-9294-49e3-9133-9c5caca515f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process'])[2]/following::span[2]</value>
+      <webElementGuid>e4735f8a-3c55-4f12-a59f-6b826bdb8481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brazilian'])[1]/preceding::span[1]</value>
+      <webElementGuid>f6aa3480-f8bb-46c6-aa49-e9b90c649016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blues'])[1]/preceding::span[2]</value>
+      <webElementGuid>84637d5b-a37a-4ebd-bf1e-84b2b6ea39e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Folk']/parent::*</value>
+      <webElementGuid>ea131099-dcb5-4818-9e4b-238af41d9944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a/span</value>
+      <webElementGuid>f5dde1d0-7f6f-4249-a780-69fa2dc0aa25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Folk' or . = 'Folk')]</value>
+      <webElementGuid>e5466b2c-c9a7-46dd-a3dd-fb986ab33b6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Actions</name>
+   <tag></tag>
+   <elementGuidId>30fb6549-9d48-4fea-bf27-26ecb0186c87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.color-fg-default.h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d2ae8db-2ede-40e1-9122-76385bc5b726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>color-fg-default h4</value>
+      <webElementGuid>1a72fd4a-edad-441a-b96f-f27370f7e1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Actions</value>
+      <webElementGuid>4400dc3f-43a2-42c2-b641-bb3221710cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-out env-production page-responsive header-overlay home-campaign intent-mouse&quot;]/div[@class=&quot;logged-out env-production page-responsive header-overlay home-campaign&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header-old header-logged-out js-details-container Details position-relative f4 py-3&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row flex-items-center p-responsive height-full position-relative z-1&quot;]/div[@class=&quot;HeaderMenu--logged-out p-responsive height-fit position-lg-relative d-lg-flex flex-column flex-auto pt-7 pb-4 top-0&quot;]/div[@class=&quot;header-menu-wrapper d-flex flex-column flex-self-end flex-lg-row flex-justify-between flex-auto p-3 p-lg-0 rounded rounded-lg-0 mt-3 mt-lg-0&quot;]/nav[@class=&quot;mt-0 px-3 px-lg-0 mb-3 mb-lg-0&quot;]/ul[@class=&quot;d-lg-flex list-style-none&quot;]/li[@class=&quot;HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item open Details--on&quot;]/div[@class=&quot;HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 py-2 py-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 d-lg-flex dropdown-menu-wide&quot;]/div[@class=&quot;px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7&quot;]/ul[@class=&quot;list-style-none f5&quot;]/li[1]/a[@class=&quot;HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3&quot;]/div[1]/div[@class=&quot;color-fg-default h4&quot;]</value>
+      <webElementGuid>b1d02449-2d9c-47be-9f8b-c2d0b3b57f3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::div[4]</value>
+      <webElementGuid>a127f6a0-210b-40a5-bc1f-3d3bbf70bf05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packages'])[1]/preceding::div[1]</value>
+      <webElementGuid>5fcd7462-7617-41f6-a57d-11bb1a2ee5d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Actions']/parent::*</value>
+      <webElementGuid>dc5aa3b5-1a13-45f8-a6ed-fd9f83b43903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>e475530a-8991-45db-969b-c76529e75be5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Actions' or . = 'Actions')]</value>
+      <webElementGuid>32f91fda-d5cb-4e30-b46d-0de60713db8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

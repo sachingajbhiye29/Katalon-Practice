@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>33a520cc-4210-4c47-974c-d7a4f3cba475</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick a category'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.style-module--tune-in--2oJql > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>da4d6507-202a-415d-95a8-0aa9b2f1f753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>7e3804c7-d01c-486d-afad-2f5a5ff8e1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>1a1b033b-544f-43da-bb96-6adc6a0ff4c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>b74f1b39-e3f4-4604-95c0-5ce819e53542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>4a0eed97-e1ab-487f-addf-27fa929a5f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;style-module--app-shell--1Luo6&quot;]/div[@class=&quot;style-module--parent--2xIYu&quot;]/div[@class=&quot;style-module--hero--XGIUy&quot;]/div[@class=&quot;sd-container&quot;]/div[@class=&quot;sd-container-inner style-module--hero-inner--M1yz3 style-module--hero--1wZ_0&quot;]/div[1]/button[@class=&quot;style-module--tune-in--2oJql&quot;]/svg[1]</value>
+      <webElementGuid>f4a4689e-9d9e-4cc8-b485-bfc6b10bb85a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick a category'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a6a465c6-7372-4b2a-a256-360052523d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stories'])[3]/following::*[name()='svg'][1]</value>
+      <webElementGuid>29872cdd-a4f9-4ce4-a1e9-4cca7327180d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Stories'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>e4550fc3-3bec-4dfa-85c3-3628078c0856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>eb6e62f5-6906-47a7-baa1-f07f98ee21e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

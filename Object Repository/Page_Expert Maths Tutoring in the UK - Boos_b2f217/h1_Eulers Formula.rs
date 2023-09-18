@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Eulers Formula</name>
+   <tag></tag>
+   <elementGuidId>3627c81b-2317-4e9e-b5fb-ed78a97d6229</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navContentWrapper']/div[2]/div[2]/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>cba6ce08-0048-475f-b69b-231280ddf9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Euler's Formula</value>
+      <webElementGuid>e4733a29-799a-4b8c-aaa3-f00b64f8eac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navContentWrapper&quot;)/div[@class=&quot;sc-htpNat bundle__Col1-sc-czofrr-5 ewCvjq&quot;]/div[@class=&quot;basic-navigation__BaseWrapper-sc-j3ac2x-2 cZlgdX custom_tags&quot;]/div[@class=&quot;basic-navigation__BackgroundWrapper-sc-j3ac2x-3 zrYUG&quot;]/div[1]/div[1]/h1[1]</value>
+      <webElementGuid>3be58f01-a25f-4599-b527-543ee0add703</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navContentWrapper']/div[2]/div[2]/div/div/div/h1</value>
+      <webElementGuid>22f864da-e4e0-4e1d-adeb-2447ff769a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book a trial class'])[2]/following::h1[1]</value>
+      <webElementGuid>486bcf4a-b6a0-4027-b723-9f8eff8bf7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIVE 1-to-1'])[1]/following::h1[1]</value>
+      <webElementGuid>74e1f38d-28a3-456e-8691-dae350320630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What is Euler', &quot;'&quot;, 's Formula?')])[1]/preceding::h1[1]</value>
+      <webElementGuid>851b9953-06fb-4a84-b340-1dea72a0e9bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Euler', &quot;'&quot;, 's formulas')])[1]/preceding::h1[1]</value>
+      <webElementGuid>5b0b4cbf-1df9-498c-beba-f8a1f38bb72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>9458cb31-13a3-4098-9ae9-81c2f8eaa86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = concat(&quot;Euler&quot; , &quot;'&quot; , &quot;s Formula&quot;) or . = concat(&quot;Euler&quot; , &quot;'&quot; , &quot;s Formula&quot;))]</value>
+      <webElementGuid>8a332011-6478-4d10-878f-f178fdacab89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Zoned 43</name>
+   <tag></tag>
+   <elementGuidId>e8a1c699-082e-40e7-b5ff-80478e7bc464</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='stories-cards']/li/div/h3/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.style-module--card__link--1xpA7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>31ad994f-08c8-4157-85a5-62cc32a14d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://open.spotify.com/playlist/5VYGKNExIZQCkoVTk8WUPX</value>
+      <webElementGuid>431aef1b-8735-4fd8-ab77-2492dde2880d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>ef137c14-0a47-4da0-a150-8359fbc1df8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>70f48ea0-68df-4fcb-8520-a0643448bd33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-module--card__link--1xpA7</value>
+      <webElementGuid>3e8915df-601a-4dc7-b686-c863631089ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zoned 43</value>
+      <webElementGuid>7272e359-c6b8-4210-96ed-5ca3f98e989c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stories-cards&quot;)/li[1]/div[@class=&quot;style-module--card--ezvEm playlistCard-module--playlist-card--F_uYf&quot;]/h3[@class=&quot;t-heading-2 style-module--card__title--28a8Z&quot;]/a[@class=&quot;style-module--card__link--1xpA7&quot;]</value>
+      <webElementGuid>b3ad058e-b9f2-4b27-b2bd-e73333355b5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='stories-cards']/li/div/h3/a</value>
+      <webElementGuid>40f83c88-302a-46f4-beb6-2e8c5413a773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Zoned 43')]</value>
+      <webElementGuid>a82fe7c1-7e00-4a83-83a0-68a63c534859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jazz'])[2]/following::a[1]</value>
+      <webElementGuid>2b2ff0d1-bc77-46fb-82c3-46f77a8c37cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Folk'])[2]/following::a[2]</value>
+      <webElementGuid>d15c4430-7624-48ec-a2cb-eea478003719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View more stories'])[1]/preceding::a[1]</value>
+      <webElementGuid>ce891c9b-6356-4b47-a249-7c0fe97439db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zoned 43']/parent::*</value>
+      <webElementGuid>1aa35a5a-2a8e-4f66-8d47-14d190220300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://open.spotify.com/playlist/5VYGKNExIZQCkoVTk8WUPX')]</value>
+      <webElementGuid>26970228-d81e-464f-b74d-dad6505d785e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a</value>
+      <webElementGuid>2248e84d-cc87-4214-94e7-0af99b91bfb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://open.spotify.com/playlist/5VYGKNExIZQCkoVTk8WUPX' and (text() = 'Zoned 43' or . = 'Zoned 43')]</value>
+      <webElementGuid>63d9d2fc-356f-4750-a656-b719decd4931</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

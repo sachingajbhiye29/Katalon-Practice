@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Product_octicon octicon-chevron-down He_c64722</name>
+   <tag></tag>
+   <elementGuidId>ff994a8f-bbf9-40c1-b402-bbf218900d32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Source'])[1]//*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>01b7635c-25c2-4ed4-b5f7-9531fd9ca8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>opacity</name>
+      <type>Main</type>
+      <value>0.5</value>
+      <webElementGuid>b6711093-f74d-4c47-94e5-ebe8645fb350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b3386a36-38eb-4753-9b4a-9f09600a5c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>1e96fbb1-bb32-4e73-adce-78e6af452eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 16 16</value>
+      <webElementGuid>f1004dce-8420-4e7e-bd70-4dc4c4a8f8c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>c3fb61d6-0ed2-40b0-8651-711ac40c1827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>8cb6f010-e32c-4bb3-ac9a-6b63e0c4ad47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-view-component</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>34d5f4cc-0a1e-438e-af39-63e65513b9a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>octicon octicon-chevron-down HeaderMenu-icon ml-1</value>
+      <webElementGuid>ba642c64-c183-447e-ac29-ffcc29e2f362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-out env-production page-responsive header-overlay home-campaign intent-mouse&quot;]/div[@class=&quot;logged-out env-production page-responsive header-overlay home-campaign&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header-old header-logged-out js-details-container Details position-relative f4 py-3&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row flex-items-center p-responsive height-full position-relative z-1&quot;]/div[@class=&quot;HeaderMenu--logged-out p-responsive height-fit position-lg-relative d-lg-flex flex-column flex-auto pt-7 pb-4 top-0&quot;]/div[@class=&quot;header-menu-wrapper d-flex flex-column flex-self-end flex-lg-row flex-justify-between flex-auto p-3 p-lg-0 rounded rounded-lg-0 mt-3 mt-lg-0&quot;]/nav[@class=&quot;mt-0 px-3 px-lg-0 mb-3 mb-lg-0&quot;]/ul[@class=&quot;d-lg-flex list-style-none&quot;]/li[@class=&quot;HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item&quot;]/button[@class=&quot;HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target&quot;]/svg[@class=&quot;octicon octicon-chevron-down HeaderMenu-icon ml-1&quot;]</value>
+      <webElementGuid>b196f34a-1766-4893-9b18-cd0bc86ba67f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Source'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>f347368d-5113-41d1-988c-cfa07cc2c9d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>47cf3e88-c368-4440-8679-67fda3d07281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GitHub Sponsors'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f92a0539-cb80-4183-ab03-236ac1443b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solutions'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>6613ba25-42ca-4f66-8799-7877f08caab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>782fdea1-fd67-4cf2-ab92-1869f1e2d1bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>cd2a2aa0-6758-40ac-8cf5-fb3c80979235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>654ff713-a653-403f-97b6-19c4cefdbd6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>d2880e58-2a87-4ed9-873c-d6dbc555649a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>69d23d87-5904-4633-8723-6a30b4bb6e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>9c955774-c104-4205-b28c-0114a0ce855b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

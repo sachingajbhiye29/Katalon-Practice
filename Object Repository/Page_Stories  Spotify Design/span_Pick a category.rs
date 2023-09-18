@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pick a category</name>
+   <tag></tag>
+   <elementGuidId>af35274d-6554-44ca-a318-dfdca97442c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/div/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.t-subhead-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b6181d5b-934e-4774-b226-6a50d10c3dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-subhead-1</value>
+      <webElementGuid>e189cf39-5a73-4ed8-bb32-6d8f2c9ac773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pick a category</value>
+      <webElementGuid>a38ab93a-2844-425c-a0fc-a938609ab5a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;style-module--app-shell--1Luo6&quot;]/div[@class=&quot;style-module--parent--2xIYu&quot;]/div[@class=&quot;style-module--hero--XGIUy&quot;]/div[@class=&quot;sd-container&quot;]/div[@class=&quot;sd-container-inner style-module--hero-inner--M1yz3 style-module--hero--1wZ_0&quot;]/div[1]/button[@class=&quot;style-module--tune-in--2oJql&quot;]/span[@class=&quot;t-subhead-1&quot;]</value>
+      <webElementGuid>c12a7061-7a60-4be6-a275-c6018f9df8d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/div/div/div/div/div/button/span</value>
+      <webElementGuid>131c4f1f-9a6d-4a7b-8113-a07820e617f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stories'])[3]/following::span[1]</value>
+      <webElementGuid>2b1a3e8a-6964-4753-a79f-1b7698640275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::span[1]</value>
+      <webElementGuid>2d35fe66-36c0-409b-9d29-c4c04304bcea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Stories'])[1]/preceding::span[2]</value>
+      <webElementGuid>b55a2725-4bbe-4f54-b841-422cc7ae7115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design'])[1]/preceding::span[2]</value>
+      <webElementGuid>fcf3cf81-411f-455d-b53b-0d721bbad10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pick a category']/parent::*</value>
+      <webElementGuid>4999a92e-165f-419e-b034-e029f1b5be40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/button/span</value>
+      <webElementGuid>3f7043d2-0433-459d-94bd-d03f51ac77f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pick a category' or . = 'Pick a category')]</value>
+      <webElementGuid>bdb852ac-3ae2-48ab-8f42-ec3b870a3446</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

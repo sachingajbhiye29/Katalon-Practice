@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e6357ddd-dcf5-4665-acab-91f9475e55f1</webElementGuid>
+      <webElementGuid>e5fb8246-0873-492d-b897-9066ff6cb685</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Stay signed out</value>
-      <webElementGuid>f14125cd-6c24-4cb6-aef8-0ab219a23aef</webElementGuid>
+      <webElementGuid>3ab0fc49-fda2-442f-8d0a-0666c534ace8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>M6CB1c rr4y5c</value>
-      <webElementGuid>2ea85aa0-8896-472e-93a6-332a65ac8919</webElementGuid>
+      <webElementGuid>e604b77e-45c6-4b72-9794-9511885f8def</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>jsname</name>
       <type>Main</type>
       <value>ZUkOIc</value>
-      <webElementGuid>ef9d6e79-eb30-4d41-a74d-eab9fc711883</webElementGuid>
+      <webElementGuid>f1608c9d-6e6e-4c45-bc3a-0ee590da8827</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>jslog</name>
       <type>Main</type>
       <value>71121; track:click;</value>
-      <webElementGuid>55f97c6f-de03-47f4-a687-3c32eed82a1a</webElementGuid>
+      <webElementGuid>8abad2a3-e4cf-4b13-8a5a-90504481235e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-dismiss</name>
       <type>Main</type>
       <value>n</value>
-      <webElementGuid>678c0005-5602-40c3-89cd-9a54edbf255d</webElementGuid>
+      <webElementGuid>62d86dd3-c903-43d1-b7cb-5f864790a249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Stay signed out</value>
-      <webElementGuid>49521ba3-365f-4847-a8fe-9713c4fe5e03</webElementGuid>
+      <webElementGuid>90a943e6-3b65-4d04-a565-fef1b9aa6274</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb eejsDc&quot;]/div[@class=&quot;kFwPee&quot;]/c-wiz[1]/div[@class=&quot;WrcADd&quot;]/div[@class=&quot;vQ43Ie&quot;]/div[@class=&quot;eboQFe&quot;]/div[@class=&quot;DRc6kd bdn4dc&quot;]/div[@class=&quot;QlyBfb&quot;]/button[@class=&quot;M6CB1c rr4y5c&quot;]</value>
-      <webElementGuid>08ab8e60-35b7-433e-a9fd-91f72106c522</webElementGuid>
+      <webElementGuid>7c3f917d-c41b-416c-9496-1d9d82edd40c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Google/iframe_Sign in_callout</value>
-      <webElementGuid>1ca97d61-41a5-4a4b-afe9-a5c783ebacff</webElementGuid>
+      <webElementGuid>21f6f0ef-34a1-4d75-ad50-42f07a15c13b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div[2]/button</value>
-      <webElementGuid>fccf0deb-0f9e-438d-aa2c-039a7a6d42a6</webElementGuid>
+      <webElementGuid>4032a8a6-c5c4-4512-8b5b-92427f0e926d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save your passwords securely with your Google Account'])[1]/following::button[1]</value>
-      <webElementGuid>c3711f7d-26c9-42bb-b242-2deb2d739feb</webElementGuid>
+      <webElementGuid>9e3e6231-7423-4a4b-98dd-c2fd3e9c477a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to Google'])[1]/following::button[1]</value>
-      <webElementGuid>e8b73dce-c2dc-4336-b723-a13171a757ec</webElementGuid>
+      <webElementGuid>ad3db3ca-9fcc-4a85-af99-e6fa81a62089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::button[1]</value>
-      <webElementGuid>de654112-bcea-441c-aedb-9883bc995203</webElementGuid>
+      <webElementGuid>dc988887-613d-441f-ae4a-b5aa25686f3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Stay signed out']/parent::*</value>
-      <webElementGuid>911fc7c2-34e1-47ec-93d8-c8c0292b8c08</webElementGuid>
+      <webElementGuid>80f37f88-9085-4cd7-8b84-24908fad991b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>7b3a9e0d-3b17-47bc-9537-7c8eb6497a5d</webElementGuid>
+      <webElementGuid>5a17b8af-8cbb-46eb-a24d-e227347b5d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Stay signed out' or . = 'Stay signed out')]</value>
-      <webElementGuid>109d9360-9b43-4a89-b5e8-2ee27d08d273</webElementGuid>
+      <webElementGuid>525b0cc3-ec54-4bda-bc29-0456d235e64a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
