@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_translator - Google Search/h3_Google Translate",
+      "brokenLocator": "//div[@id\u003d\u0027rso\u0027]/div[2]/div/div/div/div/div/div/div/div/div/span/a/h3",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Web result with site links\u0027])[1]/following::h3[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230921_114607/First Test Suite/20230921_114607/Object Repository/Page_translator - Google Search/h3_Google Translate_neighbor.png"
+    }
+  ]
+}
