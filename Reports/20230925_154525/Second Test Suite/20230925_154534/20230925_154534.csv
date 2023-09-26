@@ -1,0 +1,97 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Second Test Suite,Chrome 116.0.0.0,,,2023-09-25 15:45:46,2023-09-25 15:49:09,3m - 23.294s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase01,Chrome 116.0.0.0,,,2023-09-25 15:45:46,2023-09-25 15:46:03,16.406s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:45:47,2023-09-25 15:45:52,4.606s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-25 15:45:52,2023-09-25 15:45:58,6.453s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Google/img_Sign in_lnXdpd""))",Chrome 116.0.0.0,,,2023-09-25 15:45:58,2023-09-25 15:45:59,0.754s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/button_Stay signed out""))",Chrome 116.0.0.0,,,2023-09-25 15:45:59,2023-09-25 15:46:00,0.904s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Google/input_Delete_btnK""))",Chrome 116.0.0.0,,,2023-09-25 15:46:00,2023-09-25 15:46:00,0.512s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Google/input_Delete_btnK""), """")",Chrome 116.0.0.0,,,2023-09-25 15:46:00,2023-09-25 15:46:01,0.467s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""jnj"")",Chrome 116.0.0.0,,,2023-09-25 15:46:01,2023-09-25 15:46:02,1.097s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:46:02,2023-09-25 15:46:03,0.894s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase02,Chrome 116.0.0.0,,,2023-09-25 15:46:03,2023-09-25 15:46:23,20.496s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:46:03,2023-09-25 15:46:05,1.444s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-25 15:46:05,2023-09-25 15:46:05,0.234s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-25 15:46:05,2023-09-25 15:46:13,7.958s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Google/textarea__q""))",Chrome 116.0.0.0,,,2023-09-25 15:46:13,2023-09-25 15:46:14,0.776s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Google/textarea__q""), 0)",Chrome 116.0.0.0,,,2023-09-25 15:46:14,2023-09-25 15:46:14,0.405s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""translator"")",Chrome 116.0.0.0,,,2023-09-25 15:46:14,2023-09-25 15:46:15,0.960s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/textarea__q""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2023-09-25 15:46:15,2023-09-25 15:46:17,1.632s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_translator - Google Search/h3_Google Translate""), 0)",Chrome 116.0.0.0,,,2023-09-25 15:46:17,2023-09-25 15:46:22,5.229s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_translator - Google Search/h3_Google Translate""))",Chrome 116.0.0.0,,,2023-09-25 15:46:22,2023-09-25 15:46:22,0.506s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:46:22,2023-09-25 15:46:23,0.921s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase03,Chrome 116.0.0.0,,,2023-09-25 15:46:23,2023-09-25 15:46:59,35.992s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:46:24,2023-09-25 15:46:25,1.442s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-25 15:46:25,2023-09-25 15:46:25,0.175s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-25 15:46:25,2023-09-25 15:46:35,9.743s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""www.gmail.com"")",Chrome 116.0.0.0,,,2023-09-25 15:46:35,2023-09-25 15:46:36,1.006s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/textarea__q""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2023-09-25 15:46:36,2023-09-25 15:46:38,1.469s,PASSED
+"click(findTestObject(""Object Repository/Page_www.gmail.com - Google Search/h3_Email - Gmail - Google""))",Chrome 116.0.0.0,,,2023-09-25 15:46:38,2023-09-25 15:46:58,20.189s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Gmail Private and secure email at no c_d3ebd8/span_Create an account""))",Chrome 116.0.0.0,,,2023-09-25 15:46:58,2023-09-25 15:46:58,0.440s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:46:58,2023-09-25 15:46:59,1.102s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase04,Chrome 116.0.0.0,,,2023-09-25 15:46:59,2023-09-25 15:47:19,19.972s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:47:00,2023-09-25 15:47:01,1.388s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-25 15:47:01,2023-09-25 15:47:09,8.284s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""facebook.com"")",Chrome 116.0.0.0,,,2023-09-25 15:47:09,2023-09-25 15:47:10,1.034s,PASSED
+"sendKeys(findTestObject(""Page_Google/textarea__q""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2023-09-25 15:47:10,2023-09-25 15:47:12,1.587s,PASSED
+"click(findTestObject(""Object Repository/Page_facebook.com - Google Search/h3_Facebook - log in or sign up""))",Chrome 116.0.0.0,,,2023-09-25 15:47:12,2023-09-25 15:47:18,6.361s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:47:18,2023-09-25 15:47:19,0.973s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase05,Chrome 116.0.0.0,,,2023-09-25 15:47:19,2023-09-25 15:47:50,31.160s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:47:20,2023-09-25 15:47:21,1.504s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-25 15:47:21,2023-09-25 15:47:21,0.157s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-25 15:47:21,2023-09-25 15:47:28,7.039s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""hackerrank"")",Chrome 116.0.0.0,,,2023-09-25 15:47:28,2023-09-25 15:47:30,1.198s,PASSED
+"sendKeys(findTestObject(""Page_Google/textarea__q""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2023-09-25 15:47:30,2023-09-25 15:47:39,8.983s,PASSED
+"click(findTestObject(""Object Repository/Page_hackerrank - Google Search/h3_HackerRank - Online Coding Tests and Tec_2dee1e""))",Chrome 116.0.0.0,,,2023-09-25 15:47:39,2023-09-25 15:47:48,9.274s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_HackerRank - Online Coding Tests and T_423249/a_Sign up""))",Chrome 116.0.0.0,,,2023-09-25 15:47:48,2023-09-25 15:47:49,1.090s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_HackerRank - Online Coding Tests and T_423249/a_Sign up""))",Chrome 116.0.0.0,,,2023-09-25 15:47:49,2023-09-25 15:47:49,0.444s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:47:49,2023-09-25 15:47:50,1.065s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase06,Chrome 116.0.0.0,,,2023-09-25 15:47:50,2023-09-25 15:48:33,42.157s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:47:51,2023-09-25 15:47:52,1.436s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-25 15:47:52,2023-09-25 15:47:52,0.174s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-25 15:47:52,2023-09-25 15:47:59,6.245s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""katalon"")",Chrome 116.0.0.0,,,2023-09-25 15:47:59,2023-09-25 15:48:00,1.234s,PASSED
+"sendKeys(findTestObject(""Page_Google/textarea__q""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2023-09-25 15:48:00,2023-09-25 15:48:02,1.613s,PASSED
+"click(findTestObject(""Object Repository/Page_katalon - Google Search/span_Katalon Studio - 1 Software Testing Tool""))",Chrome 116.0.0.0,,,2023-09-25 15:48:02,2023-09-25 15:48:27,25.810s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 116.0.0.0,,,2023-09-25 15:48:27,2023-09-25 15:48:29,1.257s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial""), 0)",Chrome 116.0.0.0,,,2023-09-25 15:48:29,2023-09-25 15:48:31,2.799s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:48:31,2023-09-25 15:48:33,1.184s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase07,Chrome 116.0.0.0,,,2023-09-25 15:48:33,2023-09-25 15:48:44,11.410s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:48:33,2023-09-25 15:48:35,1.514s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-25 15:48:35,2023-09-25 15:48:35,0.176s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-25 15:48:35,2023-09-25 15:48:41,5.873s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""eulers"")",Chrome 116.0.0.0,,,2023-09-25 15:48:41,2023-09-25 15:48:42,1.121s,PASSED
+"sendKeys(findTestObject(""Page_Google/textarea__q""), Keys.chord(ENTER))",Chrome 116.0.0.0,,,2023-09-25 15:48:42,2023-09-25 15:48:43,1.378s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:48:43,2023-09-25 15:48:44,0.923s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase08,Chrome 116.0.0.0,,,2023-09-25 15:48:44,2023-09-25 15:48:53,9.077s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:48:44,2023-09-25 15:48:46,1.426s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-25 15:48:46,2023-09-25 15:48:46,0.159s,PASSED
+"navigateToUrl(""https://projecteuler.net/"")",Chrome 116.0.0.0,,,2023-09-25 15:48:46,2023-09-25 15:48:49,2.961s,PASSED
+"click(findTestObject(""Object Repository/Page_About - Project Euler/a_Sign In""))",Chrome 116.0.0.0,,,2023-09-25 15:48:49,2023-09-25 15:48:52,2.803s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Sign In - Project Euler/input_Remember Me_sign_in""))",Chrome 116.0.0.0,,,2023-09-25 15:48:52,2023-09-25 15:48:52,0.494s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:48:52,2023-09-25 15:48:53,0.787s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase09,Chrome 116.0.0.0,,,2023-09-25 15:48:53,2023-09-25 15:48:59,5.617s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:48:53,2023-09-25 15:48:55,1.443s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-25 15:48:55,2023-09-25 15:48:55,0.141s,PASSED
+"navigateToUrl(""https://www.wikipedia.org/"")",Chrome 116.0.0.0,,,2023-09-25 15:48:55,2023-09-25 15:48:57,1.611s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Wikipedia/input_Search Wikipedia_search""))",Chrome 116.0.0.0,,,2023-09-25 15:48:57,2023-09-25 15:48:57,0.783s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Wikipedia/input_Search Wikipedia_search""))",Chrome 116.0.0.0,,,2023-09-25 15:48:57,2023-09-25 15:48:58,0.431s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:48:58,2023-09-25 15:48:59,0.831s,PASSED
+,,,,,,,
+Test Cases/Part1/TestCase10,Chrome 116.0.0.0,,,2023-09-25 15:48:59,2023-09-25 15:49:09,10.356s,PASSED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-25 15:48:59,2023-09-25 15:49:01,1.373s,PASSED
+maximizeWindow(),Chrome 116.0.0.0,,,2023-09-25 15:49:01,2023-09-25 15:49:01,0.173s,PASSED
+"navigateToUrl(""https://www.wikipedia.org/"")",Chrome 116.0.0.0,,,2023-09-25 15:49:01,2023-09-25 15:49:02,1.626s,PASSED
+"click(findTestObject(""Object Repository/Page_Wikipedia/strong_English""))",Chrome 116.0.0.0,,,2023-09-25 15:49:02,2023-09-25 15:49:07,4.424s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Wikipedia, the free encyclopedia/a_Wikipedia""), 0)",Chrome 116.0.0.0,,,2023-09-25 15:49:07,2023-09-25 15:49:08,0.928s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Wikipedia, the free encyclopedia/a_Wikipedia""), 0)",Chrome 116.0.0.0,,,2023-09-25 15:49:08,2023-09-25 15:49:08,0.394s,PASSED
+closeBrowser(),Chrome 116.0.0.0,,,2023-09-25 15:49:08,2023-09-25 15:49:09,1.010s,PASSED

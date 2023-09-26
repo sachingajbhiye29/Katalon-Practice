@@ -19,7 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://spotify.design/')
+WebUI.navigateToUrl('https://applitools.com/helloworld2/')
+
+WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff1'))
+
+WebUI.takeAreaScreenshotAsCheckpoint('Check1',FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff2'))
+
+WebUI.takeAreaScreenshotAsCheckpoint('Check2',FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Images for screenshot</name>
+   <tag></tag>
+   <elementGuidId>246d794e-00d9-4b03-8e95-6cb788985665</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div[2]/g-section-with-header/div/title-with-lhs-icon/a/div[3]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.GmE3X.kWYf3c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>465af746-0b5d-420d-ba2a-661c984a2f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>GmE3X kWYf3c</value>
+      <webElementGuid>4fc8e500-f115-42a6-afda-f7ebc5153f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>a8c3c6f1-d541-4f0a-bd75-0839d8f9034c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>231b6457-b86b-47f5-b095-129133c6202f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Images for screenshot</value>
+      <webElementGuid>89ec4580-c7da-44fa-9364-1cf30e3ee6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;ULSxyf&quot;]/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;EyBRub&quot;]/div[@class=&quot;Lv2Cle&quot;]/g-section-with-header[@class=&quot;yG4QQe TBC9ub&quot;]/div[@class=&quot;e2BEnf U7izfe hWIMdd EQdXxd&quot;]/title-with-lhs-icon[1]/a[@class=&quot;ekf0x hSQtef&quot;]/div[@class=&quot;iJ1Kvb&quot;]/h3[@class=&quot;GmE3X kWYf3c&quot;]</value>
+      <webElementGuid>67bc39e3-afe6-4eb8-9c59-7711b12bd40a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div[2]/g-section-with-header/div/title-with-lhs-icon/a/div[3]/h3</value>
+      <webElementGuid>a1c0de25-4c2b-4d36-975a-ee8192c3a708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::h3[1]</value>
+      <webElementGuid>f1352bea-fd81-407e-9c51-fe399475660e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::h3[1]</value>
+      <webElementGuid>87646cb4-d8eb-4f3f-ae9d-1cdd9c0a1d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You will see more English now.'])[1]/preceding::h3[1]</value>
+      <webElementGuid>5af3478b-8552-45e0-acee-9c004dde43b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guided Search Filters'])[1]/preceding::h3[1]</value>
+      <webElementGuid>4c87aa55-3566-4cf0-b909-3d33d5220878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Images for screenshot']/parent::*</value>
+      <webElementGuid>6ea44c67-9c5e-4af3-ad09-74e17d9b8b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>0c14cbdc-8a2d-4a6f-9395-d1f181f14691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Images for screenshot' or . = 'Images for screenshot')]</value>
+      <webElementGuid>850250c8-b672-4854-83de-a69012676c1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

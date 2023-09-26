@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+ScreenshotTestSuite,Chrome 116.0.0.0,,,2023-09-26 11:37:56,2023-09-26 11:41:27,3m - 31.172s,FAILED
+,,,,,,,
+Test Cases/Screenshot/ScreenshotTC1,Chrome 116.0.0.0,,,2023-09-26 11:40:46,2023-09-26 11:41:27,40.891s,FAILED
+"openBrowser("""")",Chrome 116.0.0.0,,,2023-09-26 11:40:46,2023-09-26 11:40:48,2.067s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 116.0.0.0,,,2023-09-26 11:40:48,2023-09-26 11:40:56,8.600s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea__q""), ""screenshot"")",Chrome 116.0.0.0,,,2023-09-26 11:40:56,2023-09-26 11:40:57,0.818s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_screenshot - Google Search/h3_Images for screenshot""), ""Images for screenshot"")",Chrome 116.0.0.0,,,2023-09-26 11:40:57,2023-09-26 11:41:27,29.396s,FAILED
