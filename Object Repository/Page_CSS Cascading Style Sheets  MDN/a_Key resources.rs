@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Key resources</name>
+   <tag></tag>
+   <elementGuidId>08cf049c-cccb-4775-a626-4e5ca9d0c532</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.document-toc-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='sidebar-quicklinks']/nav/div/div/div/section/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9fba3e40-9fcb-4457-adf9-8a2a304b24c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>document-toc-link</value>
+      <webElementGuid>c1d8c3d2-3928-4bc7-b89d-bc7eb6cd1241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#key_resources</value>
+      <webElementGuid>4d09f0be-4d6a-41a2-8ef8-8cc49e327571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Key resources</value>
+      <webElementGuid>23948176-bf5c-4a9d-9a9d-1d2b58956edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-quicklinks&quot;)/nav[@class=&quot;sidebar-inner&quot;]/div[@class=&quot;sidebar-inner-nav&quot;]/div[@class=&quot;in-nav-toc&quot;]/div[@class=&quot;document-toc-container&quot;]/section[@class=&quot;document-toc&quot;]/ul[@class=&quot;document-toc-list&quot;]/li[@class=&quot;document-toc-item&quot;]/a[@class=&quot;document-toc-link&quot;]</value>
+      <webElementGuid>69b0017c-ccdc-4ae2-a4d8-839da5f212ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='sidebar-quicklinks']/nav/div/div/div/section/ul/li/a</value>
+      <webElementGuid>954b1bd0-7412-49f4-84b5-9a9eb955d7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Key resources')]</value>
+      <webElementGuid>9da108aa-75a5-4e89-8ac3-3ad00aef72be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In this article'])[1]/following::a[1]</value>
+      <webElementGuid>ee82c79a-7994-44f5-9dea-b9f8f41784cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear filter input'])[1]/following::a[1]</value>
+      <webElementGuid>2edefb6e-539f-4e18-a822-43ff6cafaec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorials'])[1]/preceding::a[1]</value>
+      <webElementGuid>51df6ac1-b5d6-41ff-bc51-d587cf8b44d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[1]/preceding::a[2]</value>
+      <webElementGuid>84bc1f43-a0a4-4205-be26-6572d137dc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Key resources']/parent::*</value>
+      <webElementGuid>65aa7eb2-7f1e-42aa-bc9a-67b6ecdb3a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#key_resources')]</value>
+      <webElementGuid>08ed769b-d77f-4fa2-9ecb-5a828d1c37e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li/a</value>
+      <webElementGuid>ff1becd2-1952-4fa3-8f7a-614d2b370bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#key_resources' and (text() = 'Key resources' or . = 'Key resources')]</value>
+      <webElementGuid>21d07883-8664-424b-92f6-5237f52b2e24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

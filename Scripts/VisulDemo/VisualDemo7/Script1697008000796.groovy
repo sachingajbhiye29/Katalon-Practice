@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://applitools.com/helloworld2/')
-
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff1'))
+WebUI.navigateToUrl('https://tailwindcss.com/')
 
 WebUI.takeScreenshotAsCheckpoint('Check1')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff2'))
+WebUI.click(findTestObject('Object Repository/Page_Tailwind CSS - Rapidly build modern we_1dadd5/a_Get started'))
 
 WebUI.takeScreenshotAsCheckpoint('Check2')
+
+WebUI.click(findTestObject('Object Repository/Page_Installation - Tailwind CSS/a_Using PostCSS'))
 
 WebUI.closeBrowser()
 

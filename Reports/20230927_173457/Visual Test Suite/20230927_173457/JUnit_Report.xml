@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Visual Test Suite" time="9.258" tests="1" failures="0" errors="0">
+   <testsuite name="Visual Test Suite" tests="1" failures="0" errors="0" time="9.258" skipped="0" timestamp="2023-09-27 17:35:05" hostname="sachin.gajbhiye - ZIL591.mshome.net" id="Test Suites/Visual Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\sachin.gajbhiye\\git\\Katalon-Practice\\Reports\\20230927_173457\\Visual Test Suite\\20230927_173457"/>
+         <property name="logFiles" value="C:\\Users\\sachin.gajbhiye\\git\\Katalon-Practice\\Reports\\20230927_173457\\Visual Test Suite\\20230927_173457\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-Check1.png, keyes\keyes-Check2.png"/>
+         <property name="hostName" value="sachin.gajbhiye - ZIL591.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 117.0.0.0"/>
+         <property name="hostAddress" value="172.19.128.1"/>
+         <property name="sessionId" value="45704fb0adbb206489ea760fcfdc9ae2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/VisulDemo/DemoVisual2" time="9.009" classname="Test Cases/VisulDemo/DemoVisual2" status="PASSED">
+         <system-out><![CDATA[2023-09-27 17:35:05 - [TEST_CASE][PASSED] - Test Cases/VisulDemo/DemoVisual2: Test Cases/VisulDemo/DemoVisual2
+
+2023-09-27 17:35:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-09-27 17:35:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-09-27 17:35:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-09-27 17:35:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-09-27 17:35:08 - [TEST_STEP][PASSED] - navigateToUrl("https://applitools.com/helloworld2/"): Navigate to 'https://applitools.com/helloworld2/' successfully
+
+2023-09-27 17:35:11 - [MESSAGE][PASSED] - Navigate to 'https://applitools.com/helloworld2/' successfully
+
+2023-09-27 17:35:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Applitools/a_diff1")): Object: 'Object Repository/Page_Applitools/a_diff1' is clicked on
+
+2023-09-27 17:35:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Applitools/a_diff1' is clicked on
+
+2023-09-27 17:35:12 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Check1"): Taking screenshot successfully
+
+2023-09-27 17:35:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-09-27 17:35:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Check1.png]]
+
+2023-09-27 17:35:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Applitools/a_diff2")): Object: 'Object Repository/Page_Applitools/a_diff2' is clicked on
+
+2023-09-27 17:35:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Applitools/a_diff2' is clicked on
+
+2023-09-27 17:35:13 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Check2"): Taking screenshot successfully
+
+2023-09-27 17:35:14 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-09-27 17:35:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Check2.png]]
+
+2023-09-27 17:35:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-09-27 17:35:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-09-27 17:35:05 - [TEST_SUITE][PASSED] - Visual Test Suite: Test Cases/VisulDemo/DemoVisual2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

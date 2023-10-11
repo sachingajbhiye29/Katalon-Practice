@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://applitools.com/helloworld2/')
-
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff1'))
+WebUI.navigateToUrl('https://developer.mozilla.org/en-US/docs/Web/CSS')
 
 WebUI.takeScreenshotAsCheckpoint('Check1')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff2'))
+WebUI.click(findTestObject('Object Repository/Page_CSS Cascading Style Sheets  MDN/a_Key resources'))
 
 WebUI.takeScreenshotAsCheckpoint('Check2')
+
+WebUI.click(findTestObject('Object Repository/Page_CSS Cascading Style Sheets  MDN/a_Reference'))
 
 WebUI.closeBrowser()
 

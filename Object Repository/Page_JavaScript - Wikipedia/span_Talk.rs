@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Talk</name>
+   <tag></tag>
+   <elementGuidId>c3531020-76c2-4b88-b301-6b560ae5cd98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Discuss improvements to the content page [alt-shift-t]&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ca-talk']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>83f9a566-f35e-4fa1-8085-497963f775d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Talk</value>
+      <webElementGuid>b32ad34d-f35b-42c2-b977-8ee5ebc33cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ca-talk&quot;)/a[1]/span[1]</value>
+      <webElementGuid>c5ebfc8c-eae4-4de3-80e1-f9fe2938f35b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ca-talk']/a/span</value>
+      <webElementGuid>bad6bacc-192c-43e2-92c8-b86d1a15c03a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Article'])[1]/following::span[1]</value>
+      <webElementGuid>8ec82968-a299-439c-9d95-47d1f8b23ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit links'])[1]/following::span[2]</value>
+      <webElementGuid>89a3e966-04bd-48aa-b7da-6e3133ddc13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::span[1]</value>
+      <webElementGuid>74d3169d-e981-45cb-94b6-22ce2c578d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[1]/preceding::span[2]</value>
+      <webElementGuid>eb925163-864e-403c-a93e-c440792ac851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/nav/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>3424e53f-9f3a-4622-921f-d7cfdf63e275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Talk' or . = 'Talk')]</value>
+      <webElementGuid>44d6174c-e96d-453b-8b42-733ee8d7fce9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

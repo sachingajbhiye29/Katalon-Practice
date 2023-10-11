@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Visual Test Suite,Chrome 117.0.0.0,,,2023-09-27 17:35:05,2023-09-27 17:35:14,9.258s,PASSED
+,,,,,,,
+Test Cases/VisulDemo/DemoVisual2,Chrome 117.0.0.0,,,2023-09-27 17:35:05,2023-09-27 17:35:14,9.009s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-09-27 17:35:06,2023-09-27 17:35:08,2.299s,PASSED
+"navigateToUrl(""https://applitools.com/helloworld2/"")",Chrome 117.0.0.0,,,2023-09-27 17:35:08,2023-09-27 17:35:11,2.875s,PASSED
+"click(findTestObject(""Object Repository/Page_Applitools/a_diff1""))",Chrome 117.0.0.0,,,2023-09-27 17:35:11,2023-09-27 17:35:12,0.750s,PASSED
+"takeScreenshotAsCheckpoint(""Check1"")",Chrome 117.0.0.0,,,2023-09-27 17:35:12,2023-09-27 17:35:12,0.759s,PASSED
+"click(findTestObject(""Object Repository/Page_Applitools/a_diff2""))",Chrome 117.0.0.0,,,2023-09-27 17:35:12,2023-09-27 17:35:13,0.688s,PASSED
+"takeScreenshotAsCheckpoint(""Check2"")",Chrome 117.0.0.0,,,2023-09-27 17:35:13,2023-09-27 17:35:14,0.582s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-09-27 17:35:14,2023-09-27 17:35:14,0.662s,PASSED

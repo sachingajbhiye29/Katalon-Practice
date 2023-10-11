@@ -19,13 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://applitools.com/helloworld2/')
+WebUI.navigateToUrl('https://www.google.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff1'))
 
 WebUI.takeScreenshotAsCheckpoint('Check1')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff2'))
+WebUI.click(findTestObject('Object Repository/Page_Google/input_Delete_btnK'))
+
+WebUI.takeScreenshotAsCheckpoint('Check1')
+
+WebUI.click(findTestObject('Object Repository/Page_Google/input_Delete_btnK'))
 
 WebUI.takeScreenshotAsCheckpoint('Check2')
 

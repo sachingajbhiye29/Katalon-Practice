@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://applitools.com/helloworld2/')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff1'))
+WebUI.click(findTestObject('Object Repository/Page_Applitools/button_Click me'))
 
 WebUI.takeScreenshotAsCheckpoint('Check1')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff2'))
+WebUI.click(findTestObject('Object Repository/Page_Applitools/button_Click me'))
 
 WebUI.takeScreenshotAsCheckpoint('Check2')
 

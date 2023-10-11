@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://applitools.com/helloworld2/')
-
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff1'))
+WebUI.navigateToUrl('https://en.wikipedia.org/wiki/JavaScript')
 
 WebUI.takeScreenshotAsCheckpoint('Check1')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff2'))
+WebUI.click(findTestObject('Object Repository/Page_JavaScript - Wikipedia/span_Talk'))
 
 WebUI.takeScreenshotAsCheckpoint('Check2')
+
+WebUI.click(findTestObject('Object Repository/Page_TalkJavaScript - Wikipedia/a_Article'))
 
 WebUI.closeBrowser()
 

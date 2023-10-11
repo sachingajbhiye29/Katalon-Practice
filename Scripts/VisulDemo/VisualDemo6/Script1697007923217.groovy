@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://applitools.com/helloworld2/')
-
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff1'))
+WebUI.navigateToUrl('https://www.google.com/')
 
 WebUI.takeScreenshotAsCheckpoint('Check1')
 
-WebUI.click(findTestObject('Object Repository/Page_Applitools/a_diff2'))
+WebUI.setText(findTestObject('Object Repository/Page_Google/textarea__q'), 'hi')
 
 WebUI.takeScreenshotAsCheckpoint('Check2')
+
+WebUI.click(findTestObject('Object Repository/Page_hi - Google Search/svg'))
 
 WebUI.closeBrowser()
 
